@@ -75,12 +75,10 @@
 						<li><a href="https://www.instagram.com/polina.mp3">Instagram</a></li>
 					</ul>
 				</div>
-			</div>
-		</section>
+		
 		<footer class="bs-docs-footer"> 
 			<div class="container"> 
 				<p style="text-align:right; ">&copy; Полина Мякина, сентябрь 2018</p> 
 			</div>
 		</footer>
-	</body>
-</html>
+
