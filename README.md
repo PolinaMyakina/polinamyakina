@@ -1,6 +1,5 @@
 # polinamyakina
 <!DOCTYPE html>
-
 <html>
 	<head>
 		<title>Полина Мякина</title>
@@ -66,8 +65,9 @@
 						<p>фотография <br />
 						<p>лингвистика <br />
 						<p>музыка</p>
-					</article>
+							</article>
 				</div>
+				
 				<div class="col-md-3">
 					<h3>я в соцсетях</h3>
 					<ul>
