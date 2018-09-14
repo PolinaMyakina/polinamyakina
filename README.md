@@ -1,5 +1,6 @@
 # polinamyakina
 <!DOCTYPE html>
+
 <html>
 	<head>
 		<title>Полина Мякина</title>
@@ -33,8 +34,7 @@
 						<p><i>я создаю страницу в html первый раз в жизни, и это достаточно сложно</i></p> 
 	                </div>
 					<div class="col-md-4">
-        	            <img src="https://pp.userapi.com/c849420/v849420733/63d6f/KEJXwL5iocg.jpg" title="мой портрет" alt="" style="height:320px; margin:20px 20px 40px 20px">
-						<width="100"> <height="111" >
+        	            <img src="https://pp.userapi.com/c849420/v849420733/63d6f/KEJXwL5iocg.jpg" title="мой портрет" alt="" style="height:320px; margin:20px 20px 40px 20px;">
 					</div>
 	            </div>
 			</div>
@@ -43,25 +43,25 @@
 			<div class="container">
 				<div class="col-md-3">
 					<article>
-						<h3>вуз, факультет</h2>
+						<h3>вуз, факультет</h3>
 						<p>Фундаментальная и прикладная лингвистика, НИУ ВШЭ</p>
 					</article>
 					<article>
-						<h3>родной город</h2>
+						<h2>родной город</h2>
 						<p>Москва</p>
 					</article>
 					<article>
-						<h3>школа</h2>
+						<h1>школа</h1>
 						<p>лицей 1535</p>
 					</article>
 					<article>
-					<h3>почему поступила на лингвистику?</h2>
+					<h4>почему поступила на лингвистику?</h4>
 					<p>это интересно для изучения и перспективно для будущего!</p>
 					</article>
 				</div>
 				<div class="col-md-6">
 					<article>
-						<h3>мои хобби</h2>
+						<h5>мои хобби</h5>
 						<p>литература  <br />
 						<p>фотография <br />
 						<p>лингвистика <br />
