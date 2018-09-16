@@ -80,8 +80,7 @@
 			<div class="container"> 
 				<p style="text-align:right; ">&copy; Полина Мякина, сентябрь 2018</p> 
 			</div>
-			</body>
-	</html>
+			
 		</footer>
 		
 
