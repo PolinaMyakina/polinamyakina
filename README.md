@@ -1,7 +1,7 @@
 # polinamyakina
 
 <html>
-	<!DOCTYPE html>
+
 	<head>
 		<title>Полина Мякина</title>
 	 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
