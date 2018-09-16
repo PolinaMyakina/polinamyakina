@@ -1,5 +1,5 @@
 # polinamyakina
-<!DOCTYPE html>
+
 <html>
 	<head>
 		<title>Полина Мякина</title>
