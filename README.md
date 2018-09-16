@@ -81,5 +81,4 @@
 				<p style="text-align:right; ">&copy; Полина Мякина, сентябрь 2018</p> 
 			</div>
 		</footer>
-</body>
-</html>
+
